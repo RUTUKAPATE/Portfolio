@@ -14,8 +14,8 @@ background.solid: #1E1E1E
 
 -- leftsidebar.panel:
 link1: https://www.discord.com/
-link2: https://www.github.com/
-link3: https://www.linkedin.com/
+link2: https://www.linkedin.com/
+link3: https://www.github.com/
 
 -- ftd.column:
 background.solid: #282C33
