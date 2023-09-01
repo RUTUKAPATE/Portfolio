@@ -21,13 +21,13 @@ margin-bottom.rem: 1
 width: fill-container
 height: hug-content 
 region: h3
-margin-left.percent: 2
 padding.px: 20
 
 -- ftd.image:
 src: $footer.logo
 alt: Logo can't be displayed 
 align-self: center
+margin-left.percent: 2
 margin-right.percent: 1
 
 -- ftd.text: $footer.name
@@ -35,7 +35,7 @@ color: white
 align-self: center
 
 -- ftd.column:
-margin-left.percent: 80
+margin-left.percent: 75
 
 -- ftd.text: Media
 region: h2
@@ -64,7 +64,7 @@ link: $footer.linkedinlink
 -- ftd.text: $footer.body
 padding.px: 20
 color: #ABB2BF
-region: h4
+region: h3
 margin-left.percent: 2
 
 -- ftd.text: © Copyright 2022. Made by Elias

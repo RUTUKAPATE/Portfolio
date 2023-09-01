@@ -29,7 +29,7 @@ aboutlink: www.about.com
 contactmelink: www.contactme.com
 worklink: www.work.com
 
--- main.body: Elias is a web designer and front-end developer
+-- main.body: Elias is a Web Designer and Front-End Developer
 link: https://www.candely.com/
 image: $assets.files.images.Image2.png
 label: Currently working on portfolio
