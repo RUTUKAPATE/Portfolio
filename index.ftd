@@ -1,0 +1,84 @@
+-- import: Portfolio/assets
+-- import: Portfolio/navheader
+-- import: Portfolio/main
+-- import: Portfolio/content
+-- import: Portfolio/contactinfo
+-- import: Portfolio/leftsidebar
+-- import: Portfolio/label
+-- import: Portfolio/work
+-- import: Portfolio/me
+-- import: Portfolio/navfooter
+
+-- ftd.row:
+background.solid: #1E1E1E
+
+-- leftsidebar.panel:
+link1: https://www.discord.com/
+link2: https://www.github.com/
+link3: https://www.linkedin.com/
+
+-- ftd.column:
+background.solid: #282C33
+width: fill-container
+height: hug-content
+
+-- navheader.navbar: Elias
+logo: $assets.files.images.logo.svg
+homelink: www.home.com
+aboutlink: www.about.com
+contactmelink: www.contactme.com
+worklink: www.work.com
+
+-- main.body: Elias is a web designer and front-end developer
+link: https://www.candely.com/
+image: $assets.files.images.Image2.png
+label: Currently working on portfolio
+
+Passionate about Communication, and C++,Python Programming Language with a broad knowledge in computer science principles. Always interested in expanding my knowledge and learning something new everyday. I am always open to hearing about new opportunities.
+
+-- label.quote:
+quote: With great power comes great electricity bill
+
+-- content.project: 
+allproject: www.allproject.com
+project1: www.project1.com
+project2: www.project2.com
+project3: www.project3.com
+live1: www.live1.com
+cached: www.cached.com
+live2: www.live2.com
+live3: www.live3.com
+
+-- work.skills:
+languages: TypeScript Lua Python Javascript
+databases: SQLite PostgreSQL Mongo
+other: HTML CSS EJS SCSS REST Jinja
+tools: VSCode Neovim Linux Figma XFCE Arch Git Font Awesome
+frameworks: React Vue Disnake Discord.js Flask Express.js
+
+-- me.aboutme: Hello, i’m Elias!
+link: www.readmore.com
+image: $assets.files.images.Image.png
+
+I’m a self-taught front-end developer based in Kyiv, Ukraine. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. 
+
+Transforming my creativity and knowledge into a websites has been my passion for over a year. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks.
+
+-- contactinfo.contact:
+discordlink: https://www.discord.com/
+githublink: https://www.github.com/
+linkedinlink: https://www.linkedin.com/
+
+I’m interested in freelance opportunities. However, if you have other request or question, don’t hesitate to contact me.
+
+-- navfooter.footer: Elias
+logo: $assets.files.images.logo.svg
+discordlink: https://www.discord.com/
+githublink: https://www.github.com/
+linkedinlink: https://www.linkedin.com/
+
+Web designer and front-end developer
+
+-- end: ftd.column
+
+-- end: ftd.row
