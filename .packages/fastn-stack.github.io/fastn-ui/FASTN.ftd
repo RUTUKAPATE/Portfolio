@@ -1,10 +1,12 @@
 -- import: fastn
 
--- fastn.package: ftd-lang.github.io/fastn-ui
+-- fastn.package: fastn-stack.github.io/fastn-ui
 
+-- fastn.dependency: fastn-stack.github.io/fastn-ui as package
 
--- fastn.dependency: fifthtry.github.io/roboto-mono
+-- fastn.auto-import: package
 
+-- fastn.auto-import: fastn-stack.github.io/fastn-ui/assets
 
 
 
