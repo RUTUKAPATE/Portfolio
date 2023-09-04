@@ -1,13 +1,12 @@
--- import: Portfolio/assets
--- import: Portfolio/navheader
--- import: Portfolio/main
--- import: Portfolio/content
--- import: Portfolio/contactinfo
--- import: Portfolio/leftsidebar
--- import: Portfolio/label
--- import: Portfolio/work
--- import: Portfolio/me
--- import: Portfolio/navfooter
+-- import: package/navheader
+-- import: package/main
+-- import: package/content
+-- import: package/contactinfo
+-- import: package/leftsidebar
+-- import: package/label
+-- import: package/work
+-- import: package/me
+-- import: package/navfooter
 
 -- ftd.row:
 background.solid: #1E1E1E

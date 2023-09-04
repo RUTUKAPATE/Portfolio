@@ -1,0 +1,18 @@
+-- import: fastn
+
+-- fastn.package: rutukapate.github.io/rutu-ui
+
+-- fastn.dependency: rutukapate.github.io/rutu-ui as package
+
+-- fastn.auto-import: package
+
+-- fastn.auto-import: rutukapate.github.io/rutu-ui/assets
+
+
+
+
+
+
+
+
+

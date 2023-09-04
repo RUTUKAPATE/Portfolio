@@ -1,3 +1,9 @@
 -- import: fastn
 
 -- fastn.package: Portfolio
+
+-- fastn.dependency: rutukapate.github.io/rutu-ui as package
+
+-- fastn.auto-import: package
+
+-- fastn.auto-import: Portfolio/assets
