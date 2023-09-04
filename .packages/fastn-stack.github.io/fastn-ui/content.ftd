@@ -2,6 +2,18 @@
 
 -- component project:
 string allproject:
+ftd.image-src project1img1:
+ftd.image-src project2img2:
+ftd.image-src project3img3:
+string label1:
+string heading1:
+string subheading1:
+string label2:
+string heading2:
+string subheading2:
+string label3:
+string heading3:
+string subheading3:
 string project1:
 string project2:
 string project3:
@@ -58,13 +70,14 @@ margin-horizontal.rem: 10
 width.fixed.px: 334
 height: hug-content
 
--- ftd.image: $assets.files.images.project1.jpg
+-- ftd.image: 
+src: $project.project1img1
 border-width.px: 1
 border-color: #ABB2BF
 width: fill-container
 link: $project.project1
 
--- ftd.text: HTML SCSS Python Flask
+-- ftd.text: $project.label1
 color: #ABB2BF
 align-self: center
 padding.px: 10
@@ -81,11 +94,11 @@ spacing.fixed.px: 20
 height: hug-content
 padding.px: 20
 
--- ftd.text: ChertNodes
+-- ftd.text: $project.heading1
 color: white
 region: h1
 
--- ftd.text: Minecraft servers hosting 
+-- ftd.text: $project.subheading1 
 color: #ABB2BF
 region: h3
 
@@ -125,13 +138,14 @@ margin-horizontal.rem: 10
 width.fixed.px: 334
 height: hug-content
 
--- ftd.image: $assets.files.images.project2.svg
+-- ftd.image: 
+src: $project.project2img2
 border-width.px: 1
 border-color: #ABB2BF
 width: fill-container
 link: $project.project2
 
--- ftd.text: React Express Discord.js Node.js HTML SCSS Python Flask
+-- ftd.text: $project.label2
 color: #ABB2BF
 align-self: center
 padding.px: 10
@@ -148,11 +162,11 @@ spacing.fixed.px: 20
 height: hug-content
 padding.px: 20
 
--- ftd.text: ProtectX
+-- ftd.text: $project.heading2
 color: white
 region: h1
 
--- ftd.text: Discord anti-crash bot 
+-- ftd.text: $project.subheading2 
 color: #ABB2BF
 region: h3
 
@@ -178,13 +192,14 @@ margin-horizontal.rem: 10
 width.fixed.px: 334
 height: hug-content
 
--- ftd.image: $assets.files.images.project3.svg
+-- ftd.image: 
+src: $project.project3img3
 border-width.px: 1
 border-color: #ABB2BF
 width: fill-container
 link: $project.project3
 
--- ftd.text: CSS Express Node.js
+-- ftd.text: $project.label3
 color: #ABB2BF
 align-self: center
 padding.px: 10
@@ -200,11 +215,11 @@ spacing.fixed.px: 20
 height: hug-content
 padding.px: 20
 
--- ftd.text: Kahoot Answers Viewer
+-- ftd.text: $project.heading3
 color: white
 region: h1
 
--- ftd.text: Get answers to your kahoot quiz
+-- ftd.text: $project.subheading3
 color: #ABB2BF
 region: h3
 

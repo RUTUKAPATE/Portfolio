@@ -40,6 +40,18 @@ quote: With great power comes great electricity bill
 
 -- content.project: 
 allproject: www.allproject.com
+label1: HTML SCSS Python Flask
+heading1: ChertNodes
+subheading1: Minecraft servers hosting
+label2: React Express Discord.js Node.js HTML SCSS Python Flask
+heading2: ProtectX
+subheading2: Discord anti-crash bot
+label3: CSS Express Node.js
+heading3: Kahoot Answers Viewer
+subheading3: Get answers to your kahoot quiz
+project1img1: $assets.files.images.project1.jpg
+project2img2: $assets.files.images.project2.svg
+project3img3: $assets.files.images.project3.svg
 project1: www.project1.com
 project2: www.project2.com
 project3: www.project3.com
